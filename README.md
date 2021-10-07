@@ -1,8 +1,8 @@
-Problem Statement
+# Problem Statement
 
 Since 2001, states have been adopting and implementing varying state-wide assessments, including the ACT and SAT. Signing a contract with ACT inc. to administer the ACT had and continues to have two benefits in that it (i) provides students with an opportunity to take a college admissions test and (ii) encourages more students to consider college upon high school graduation. However, recently the SAT has been gaining more traction with the potential to outpace the ACT in participation. In this project, we aim to analyse ACT and SAT participation and scoring by state from 2017 and 2018 to better understand how we can improve ACT participation rates across states and whether increased participation in either test, does indeed show an uptick in high school graduates opting to go to college.
 
-Data Dictionary
+# Data Dictionary
 
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
@@ -26,7 +26,7 @@ Data Dictionary
 |sat_total_2018|integer|act_sat_final|Average SAT total score by state for 2018|
 |sat_participation_change|float|act_sat_final|Change in SAT participation rate from 2017 to 2018|
 
-Conclusions and Recommendations
+# Conclusions and Recommendations
 
 ACT inc. needs to focus on two objectives:
 1) Persuade state boards, educators and students to endorse the efficacy of the ACT in preparing students for getting into college.
