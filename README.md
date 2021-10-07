@@ -33,6 +33,7 @@ ACT inc. needs to focus on two objectives:
 2) Persuade more state boards to draw contracts with the organisation.
 
 Number 1: 
+
 In 2016, the College Board revitalised the SAT and since then has not only secured more contracts with state-boards but has seen an uptick in participation rates. Additionally, participation in the SAT is seen to be positively associated with college going behaviour. This suggests that people are starting to prefer the SAT as it perhaps, better prepares students for college. Additionally, in states where college admission tests are not mandated, the SAT is still a cheaper alternative, making is more accessible to those from a financially challenged background. It also has the effect of incentivising more students to choose the SAT over the ACT.
 
 It might be worth considering revising the content of the ACT to align it better with standards expected of students at college. Giving educators and students more confidence in the content and its ability to prepare them for college might improve participation rates and college going rates. An additional consideration may be to reduce the cost of the ACT to make it more accessible and appealing to students from varying socio-economic backgrounds.
@@ -43,5 +44,6 @@ More test prep resources can be made available and accessible to students to boo
 Despite the states requiring its students to take the ACT, Idaho and Utah see <50% of their students going to college. It suggests that they could use more test prep resources and encouragement to engage in college going behaviour.
 
 Number 2: 
+
 ACT inc. needs to secure more contracts with state boards. Securing contracts puts into effect more state-mandated participation in college admission tests. More participation in the ACT would mean more students get the opportunity to consider and hopefully get into college.
 ACT inc. lost the contracts for Colorado, Illinois, Michigan and Rhode Island to the college board. The loss can be made up for by appealing to states such as Alaska where participation rates need to be greatly improved and college going behaviour can use an uptick. Other states which currently do not offer the ACT or SAT such as Georgia can also be considered.
