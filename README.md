@@ -46,4 +46,6 @@ Despite the states requiring its students to take the ACT, Idaho and Utah see <5
 Number 2: 
 
 ACT inc. needs to secure more contracts with state boards. Securing contracts puts into effect more state-mandated participation in college admission tests. More participation in the ACT would mean more students get the opportunity to consider and hopefully get into college.
+
+
 ACT inc. lost the contracts for Colorado, Illinois, Michigan and Rhode Island to the college board. The loss can be made up for by appealing to states such as Alaska where participation rates need to be greatly improved and college going behaviour can use an uptick. Other states which currently do not offer the ACT or SAT such as Georgia can also be considered.
